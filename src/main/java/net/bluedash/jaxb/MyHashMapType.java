@@ -1,4 +1,4 @@
-package net.bluedash;
+package net.bluedash.jaxb;
 
 import java.util.ArrayList;
 import java.util.List;
